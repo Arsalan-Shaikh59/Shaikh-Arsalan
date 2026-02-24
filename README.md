@@ -5,7 +5,7 @@
 📍 Pune, India  
 📧 shaikharsalan589@gmail.com  
 🔗 <a href="https://github.com/ShkArsalan589">GitHub</a> | 
-🔗 <a href="https://linkedin.com/in/shaikharsalan">LinkedIn</a>
+🔗 <a href="https://www.linkedin.com/in/shaikh-arsalan-221b97280?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
 </p>
 
 ---
