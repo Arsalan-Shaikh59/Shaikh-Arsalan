@@ -50,7 +50,6 @@
 **Tools**
 - Git & GitHub  
 - npm  
-- VS Code  
 - Postman  
 
 ---
