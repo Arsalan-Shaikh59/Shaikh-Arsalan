@@ -33,7 +33,7 @@
 - React Hooks
 - Context API
 - HTML, CSS
-- Angular (Basics)
+- Angular(Basics)
 
 **Backend**
 - Node.js
