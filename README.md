@@ -67,7 +67,7 @@
 
 
 ###  News Aggregator (MERN)
-**Tech:** React, Node.js, Express, REST APIs  
+**Tech:** React, Node.js, Express
 
 - Fetches and displays real-time global news  
 - Component-based responsive React UI  
