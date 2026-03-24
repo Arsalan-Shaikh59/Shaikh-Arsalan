@@ -20,7 +20,7 @@
 , and feature ownership**  
 -  Open to **Software Developer / Frontend / Full Stack Roles**
 
----
+--
 
 ## 🛠 Tech Stack
 
