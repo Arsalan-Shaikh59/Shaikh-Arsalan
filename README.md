@@ -60,7 +60,7 @@
 ###  CowNetPro – Dairy Farm Management System
 **Tech:** MERN + React Native + MongoDB Atlas  
 
-- Full-stack system to manage livestock records and farm operations  
+- Full-stack System to manage livestock records and farm operations  
 - RESTful backend using Node.js & Express  
 - Web frontend (React) and mobile app (React Native Expo)  
 - Centralized cloud database with MongoDB Atlas  
