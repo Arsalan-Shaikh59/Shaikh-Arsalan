@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 -  Final Year B.Tech Computer Science Student (2022–2026)  
--  Frontend-focused Software Engineer with strong **JavaScript Fundamentals**  
+-  Frontend-Focused Software Engineer with strong **JavaScript Fundamentals**  
 -  Experience building **Full-stack MERN applications and REST API–driven systems**  
 -  Currently building **production-ready web and mobile applications**  
 -  Comfortable working with **Git workflows, modular codebases
